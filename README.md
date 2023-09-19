@@ -1,7 +1,7 @@
 ReadMe 
 EECS Project 1012 - team "Programmed in the Stars"
 
-Team mates- Kunjal Arora (Section B, Lab 03)(arorak26@my.yorku.ca), Payton Moore (Section B, Lab 02)(payton79@my.yorku.ca), Ismail Adam Knapik (Section B, Lab 03)(ik1346@my.yorku.ca), Rodney Josephs (Section B, Lab 02)(rodney07@my.yorku.ca).
+Team mates- Kunjal Arora (Section B, Lab 03)(arorak26@my.yorku.ca), Ismail Adam Knapik (Section B, Lab 03)(ik1346@my.yorku.ca), Rodney Josephs (Section B, Lab 02)(rodney07@my.yorku.ca).
 
 Welcome to the readme guide for the Astrologer web app.
 
